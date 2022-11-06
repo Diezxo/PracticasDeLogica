@@ -1,22 +1,24 @@
 ﻿
 
-//Dado un numero, devolver su tabla de multiplicar completa.
+/* Enunciados de los Ejercicios 
+ * 1 Dado un numero, devolver su tabla de multiplicar completa.
+ * 2 Dada una cadena de texto, comprobar si la frase es un palindromo o no.
+     Los Palindromos son enunciados que se leen al reves y al derecho.
+ * 3
+ */
 
-
+using Practicas.Ejercicios;
 /// Main
 /// 
-
-
-Console.WriteLine("Escribe un numero");
-int Ntable = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Hasta que numero deseas la tabla");
-int max= Convert.ToInt32(Console.ReadLine());
-int Result; ;
-
-Console.Clear();
-Console.WriteLine($">>>  Tabla del {Ntable}  <<<");
-for (int i = 1; i < max; i++)
+namespace Practices
 {
-    Result= Ntable*i;
-    Console.WriteLine($"     >>{Ntable}x{i}={Result}");
+    public class Program 
+    {
+        public static void Main()
+        {
+            // Exercise1.Print();
+            Exercise2.Print();
+        }
+
+    }
 }
