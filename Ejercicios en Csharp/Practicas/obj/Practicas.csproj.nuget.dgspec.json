@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1234\\source\\repos\\Practicas de Logica (c#)\\Ejercicios en Csharp\\Practicas\\Practicas.csproj": {}
+    "C:\\Users\\Informatica\\source\\repos\\Diezxo\\PracticasDeLogica\\Ejercicios en Csharp\\Practicas\\Practicas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1234\\source\\repos\\Practicas de Logica (c#)\\Ejercicios en Csharp\\Practicas\\Practicas.csproj": {
+    "C:\\Users\\Informatica\\source\\repos\\Diezxo\\PracticasDeLogica\\Ejercicios en Csharp\\Practicas\\Practicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1234\\source\\repos\\Practicas de Logica (c#)\\Ejercicios en Csharp\\Practicas\\Practicas.csproj",
+        "projectUniqueName": "C:\\Users\\Informatica\\source\\repos\\Diezxo\\PracticasDeLogica\\Ejercicios en Csharp\\Practicas\\Practicas.csproj",
         "projectName": "Practicas",
-        "projectPath": "C:\\Users\\1234\\source\\repos\\Practicas de Logica (c#)\\Ejercicios en Csharp\\Practicas\\Practicas.csproj",
-        "packagesPath": "C:\\Users\\1234\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1234\\source\\repos\\Practicas de Logica (c#)\\Ejercicios en Csharp\\Practicas\\obj\\",
+        "projectPath": "C:\\Users\\Informatica\\source\\repos\\Diezxo\\PracticasDeLogica\\Ejercicios en Csharp\\Practicas\\Practicas.csproj",
+        "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Informatica\\source\\repos\\Diezxo\\PracticasDeLogica\\Ejercicios en Csharp\\Practicas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\1234\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

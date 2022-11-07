@@ -4,7 +4,10 @@
  * 1 Dado un numero, devolver su tabla de multiplicar completa.
  * 2 Dada una cadena de texto, comprobar si la frase es un palindromo o no.
      Los Palindromos son enunciados que se leen al reves y al derecho.
- * 3
+ * 3 Dada una frase y una palabra, buscar cuantas veces se repite esa frase en dicha palabra.
+ * 4 Dado String, darle la vuelta e invertir su orden sin usar metodos del objeto.
+ * 5 Cuanto es el X% de x numero?
+ * 6 Dibujar un cuadrado por consola.
  */
 
 using Practicas.Ejercicios;
@@ -17,7 +20,10 @@ namespace Practices
         public static void Main()
         {
             // Exercise1.Print();
-            Exercise2.Print();
+            // Exercise2.Print();
+            // Exercise3.Print();
+            // Exercise4.Print();
+            Exercise5.Print();
         }
 
     }
