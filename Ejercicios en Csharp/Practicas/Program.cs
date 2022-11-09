@@ -8,6 +8,8 @@
  * 4 Dado String, darle la vuelta e invertir su orden sin usar metodos del objeto.
  * 5 Cuanto es el X% de x numero?
  * 6 Dibujar un cuadrado por consola.
+ * 7 Dado dos numeros, devolver cuantos numeros impares hay entre ellos.
+ * 8 Dado un numero entero, inviertlo y vuelve a mostrar el numero entero.
  */
 
 using Practicas.Ejercicios;
@@ -19,11 +21,9 @@ namespace Practices
     {
         public static void Main()
         {
-            // Exercise1.Print();
-            // Exercise2.Print();
-            // Exercise3.Print();
-            // Exercise4.Print();
-            Exercise5.Print();
+             Exercise8.Print();
+
+          
         }
 
     }
