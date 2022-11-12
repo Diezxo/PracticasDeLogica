@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="Ejercicios\Exercise14.cs" />
+  </ItemGroup>
+
 </Project>

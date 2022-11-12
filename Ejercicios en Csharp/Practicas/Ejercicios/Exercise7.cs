@@ -29,6 +29,6 @@ internal class Exercise7
 
     public static void Print()
     {
-        Console.WriteLine(OddNumber(2, 1));
+        Console.WriteLine(OddNumber(8415, 2593));
     }
 }

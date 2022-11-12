@@ -10,6 +10,11 @@
  * 6 Dibujar un cuadrado por consola.
  * 7 Dado dos numeros, devolver cuantos numeros impares hay entre ellos.
  * 8 Dado un numero entero, inviertlo y vuelve a mostrar el numero entero.
+ * 9 Dados dos arrays, devolver los elementos iguales en uno nuevo.
+ * 10 Dado un numero, mostrar una escalera con escalones de "{-}", usando el  numero para los niveles de la escalera.
+ * 11 Dado un texto y una busqueda, censurar todas las veces que aparece dicha busqueda en el texto con [-CENSURADO-].
+ * 12 Dado un numero, devolver una secuencia de 8 en 8 hasta llegar a 0, cada numero debe mostrar - #
+ * 13 Dado un array, devolver tantos sub arrays como se nos indique mediante un indice
  */
 
 using Practicas.Ejercicios;
@@ -20,10 +25,12 @@ namespace Practices
     public class Program 
     {
         public static void Main()
-        {
-             Exercise8.Print();
+        {   ///
+            ///Cambia el numero de la llamada para imprimir el ejercicio.
+            ///
 
-          
+            Exercise13.Print();
+
         }
 
     }
